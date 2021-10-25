@@ -1,0 +1,5 @@
+﻿  Eval_Infix.cpp
+C:\Users\Drew Childs\Documents\UMKC\2021\Spring\CS 303\Project 1\Project 1\Project 1\Eval_Infix.cpp(32,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Drew Childs\Documents\UMKC\2021\Spring\CS 303\Project 1\Project 1\Project 1\Eval_Infix.cpp(153,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Drew Childs\Documents\UMKC\2021\Spring\CS 303\Project 1\Project 1\Project 1\Eval_Infix.cpp(79): warning C4715: 'evalInfix::returnPrecedence': not all control paths return a value
+  Project 1.vcxproj -> C:\Users\Drew Childs\Documents\UMKC\2021\Spring\CS 303\Project 1\Project 1\Debug\Project 1.exe
